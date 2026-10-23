@@ -1,0 +1,16 @@
+{
+  "name": "users-api-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly in-memory Users API for Lab 5.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "5.3.0"
+  }
+}
